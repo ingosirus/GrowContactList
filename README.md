@@ -43,8 +43,8 @@ Customize the following php files to fit your needs:
 4) Ensure the body of the message when configuring the contact form appears as follows:  
 
 
-beginMe
-{field:all_fields}
-endMe
+  beginMe
+  {field:all_fields}
+  endMe
 
 
